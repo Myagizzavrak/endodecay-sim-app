@@ -1,5 +1,5 @@
 numpy
-pandas
+pandast.
 scikit-learn
 phe
 streamlit
